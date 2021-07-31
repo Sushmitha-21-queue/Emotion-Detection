@@ -1,6 +1,3 @@
-# Emotion-Detection
-#SmartHome-Tracking multiple inhabitants 
-
 import cv2
 import DeepFace from deepface
 import matplotlib.pyplot as plt
