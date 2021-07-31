@@ -1,2 +1,2 @@
 # Emotion-Detection
-SmartHome-Detecting multiple inhabitants 
+SmartHome-Tracking multiple inhabitants 
